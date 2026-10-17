@@ -1,0 +1,6 @@
+{
+  "name": "ModelDock",
+  "description": "Zero-SSD local LLM runner for macOS: stream GGUFs from Cloudflare R2 into RAM-disks and serve with llama.cpp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

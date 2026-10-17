@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for ModelDock: an open-source macOS developer tool and companion visual workspace that treats Cloudflare R2 as a remote model registry and system RAM as volatile model storage for llama.cpp without persistent SSD wear.",
+  "updatedAt": "2026-10-17T10:34:25.925588611Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
